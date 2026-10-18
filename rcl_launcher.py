@@ -18,7 +18,7 @@ import minecraft_launcher_lib
 # Cấu hình giao diện CustomTkinter
 ctk.set_appearance_mode("Dark")
 ctk.set_default_color_theme("green")
-
+ 
 DEFAULT_MINECRAFT_DIR = "D:/rclmc/.minecraft"
 CLIENT_ID = "00000000402b5328"  # Public Microsoft Client ID
 REDIRECT_URL = "https://login.live.com/oauth20_desktop.srf"
