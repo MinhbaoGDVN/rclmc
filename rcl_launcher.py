@@ -38,6 +38,7 @@ GITHUB_RELEASE_API = (
 )
 UPDATE_ASSET_NAME = "rcl_launcher.py"
 
+self.update_status("Hi, im RCL Minecraft Launcher, open soure!")
 
 def read_launcher_profiles(minecraft_directory):
   profiles_path = os.path.join(minecraft_directory, "launcher_profiles.json")
