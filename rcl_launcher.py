@@ -31,7 +31,7 @@ MOD_LOADER_IDS = {
     "Quilt": "quilt",
 }
 MANUAL_PROFILE = "Tự chọn phiên bản"
-APP_VERSION = "1.0.1"
+APP_VERSION = "1.0"
 GITHUB_REPOSITORY = "MinhbaoGDVN/rclmc"
 GITHUB_RELEASE_API = (
     f"https://api.github.com/repos/{GITHUB_REPOSITORY}/releases/latest"
